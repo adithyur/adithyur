@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adithyur@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences https://adithyu.vercel.app/)
 
 - ⚡ Fun fact **My code has more comments than a YouTube video!**
 
