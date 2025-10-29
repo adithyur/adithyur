@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adithyu R</h1>
-<h3 align="center">Front-End Developer at Teqbae Innovation & Solution India Pvt Ltd | Specializing in ReactJS, Tailwind CSS, and MUI | Passionate About Creating Modern, User-Centric Interfaces</h3>
+<h3 align="center">Front-End Developer at RADORP Private Limited | Specializing in ReactJS, Next.JS, and Tailwind CSS | Passionate About Creating Modern, User-Centric Interfaces</h3>
 
 
 
